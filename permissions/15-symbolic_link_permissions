@@ -1,4 +1,2 @@
 #!/bin/bash
-echo test#!/bin/bash
-echo test#!/bin/bash
-echo test
+chown -R vincent:staff _hello
